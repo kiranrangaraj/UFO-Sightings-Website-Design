@@ -2,6 +2,7 @@
 ## GitHub Page Link: https://kiranrangaraj.github.io/javascript-challenge/
 JavaScript Homework Assignment for Data Analytics Bootcamp - Trilogy Education, Vanderbilt University
 
+- - -
 
 # JavaScript and DOM Manipulation
 
@@ -44,5 +45,3 @@ You can handle this... right? The planet Earth needs to know what we have found!
 ### Dataset
 
 * [UFO Sightings Data](StarterCode/static/js/data.js)
-
-- - -
