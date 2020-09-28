@@ -1,10 +1,8 @@
 # javascript-challenge
 ## GitHub Page Link: https://kiranrangaraj.github.io/javascript-challenge/
-JavaScript Homework Assignment for Data Analytics Bootcamp - Trilogy Education, Vanderbilt University
+JavaScript & DOM Manipulation Homework Assignment for Data Analytics Bootcamp - Trilogy Education, Vanderbilt University
 
 - - -
-
-# JavaScript and DOM Manipulation
 
 ## Background
 
