@@ -44,9 +44,12 @@ A website was created to organize extra-terrestrial eye-witness reports from Jan
 
 ---
 
-## Data Set ##
-
+## Sources ##
+Data Set
 * [UFO Sightings Data](https://github.com/kiranrangaraj/javascript-challenge/blob/master/static/js/data.js)
+
+Images
+* [Website Background](https://media2.s-nbcnews.com/j/newscms/2018_01/2280531/180103-ufo-illustration-mn-1015_0758c11fb1637ed3431613cef06cd246.fit-760w.jpg)
 
 ---
 
