@@ -18,7 +18,7 @@ A website was created to organize extra-terrestrial eye-witness reports from Jan
 
 * Created a basic HTML web page.
 
-* Used the UFO Sightings dataset in the form of an array of JavaScript objects to append a table to the web page and added new rows of data for each of UFO sighting.
+* Used the UFO Sightings data set in the form of an array of JavaScript objects to append a table to the web page and added new rows of data for each of UFO sighting.
 
 * Created columns for `date/time`, `city`, `state`, `country`, `shape`, and `comment`.
 
@@ -44,7 +44,7 @@ A website was created to organize extra-terrestrial eye-witness reports from Jan
 
 ---
 
-## Dataset ##
+## Data Set ##
 
 * [UFO Sightings Data](https://github.com/kiranrangaraj/javascript-challenge/blob/master/static/js/data.js)
 
