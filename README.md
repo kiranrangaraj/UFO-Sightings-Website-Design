@@ -39,7 +39,7 @@ A website was created to organize extra-terrestrial eye-witness reports from Jan
 ## Screenshot ##
 
 <p align="center">
-  <img src "static/images/WebsiteScreenShot.png" width="800">
+  <img src="static/images/WebsiteScreenShot.png" width="800">
 </p>
 
 ---
