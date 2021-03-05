@@ -1,7 +1,7 @@
 # UFO Sightings Website Design - JavaScript & DOM Manipulation
 
 <p align="center">
-  <a href="https://kiranrangaraj.github.io/javascript-challenge/">Visit Website</a>
+  <a href="https://kiranrangaraj.github.io/UFO-Sightings-Website-Design/">Visit Website</a>
 </p>
    
 ---
