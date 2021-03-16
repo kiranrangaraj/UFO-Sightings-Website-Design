@@ -1,6 +1,10 @@
 # UFO Sightings Website Design - JavaScript & DOM Manipulation
 
 <p align="center">
+  <img src="static/images/ufo2.jpg" width="400">
+</p>
+
+<p align="center">
   <a href="https://kiranrangaraj.github.io/UFO-Sightings-Website-Design/">Visit Website</a>
 </p>
    
