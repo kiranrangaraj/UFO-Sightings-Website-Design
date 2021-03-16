@@ -1,4 +1,5 @@
-# UFO Sightings Website Design - JavaScript & DOM Manipulation
+# UFO Sightings Website Design - 
+# JavaScript & DOM Manipulation
 
 <p align="center">
   <img src="static/images/ufo2.jpg" width="400">
